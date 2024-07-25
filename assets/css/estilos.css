@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/gato.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -25,6 +25,11 @@ body {
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+}
+
+.img-fluid{
+  width: 50px;
+  height: 50px;
 }
 
 @media (max-width: 768px) {
